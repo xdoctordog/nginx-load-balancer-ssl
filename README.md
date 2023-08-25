@@ -1,2 +1,1 @@
-# nginx-load-balancer-ssl
-NGINX Load Balancer SSL Entrance
+# NGINX Load Balancer SSL Entrance + Simple HTML Web Sites
